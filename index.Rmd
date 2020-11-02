@@ -12,8 +12,6 @@ csl: /Users/nickhood/Dropbox/styles/cambridge-journal-of-education.csl
 link-citations: yes
 fig-caption: true
 github-repo: cullaloe/DataEthicsMOOC
-params:
-  includedraft: no
 description: "Nick's notes."
 favicon: "favicon.ico"
 ---
