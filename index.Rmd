@@ -21,20 +21,20 @@ favicon: "favicon.ico"
 
 ### Course overview
 
-Week 1
-: Ethics and Law – What are ethical values? Can we rely on legal regulation? What are the most pressing issues facing data driven industries?
+Week 1 Ethics and Law
+: What are ethical values? Can we rely on legal regulation? What are the most pressing issues facing data driven industries?
 
-Week 2
-: Crime and Justice – Should we use predictive policing and sentencing algorithms? How can biases sneak into such algorithms? How can we remove them?
+Week 2 Crime and Justice
+: Should we use predictive policing and sentencing algorithms? How can biases sneak into such algorithms? How can we remove them?
 
-Week 3
-: Home and City – What are the promises of smart homes and cities? How can they impact our privacy and freedom? How can we design them to protect those values?
+Week 3 Home and City
+: What are the promises of smart homes and cities? How can they impact our privacy and freedom? How can we design them to protect those values?
 
-Week 4
-: Money and Markets – Can future tech lead to a world without money? Can algorithms help us fairly distribute resources? How could we design a fair AI?
+Week 4 Money and Markets
+: Can future tech lead to a world without money? Can algorithms help us fairly distribute resources? How could we design a fair AI?
 
-Week 5
-: Life and Health – Should we keep genetic databanks? Would you trust an AI doctor? What are the principles of responsible research and innovation?
+Week 5 Life and Health
+: Should we keep genetic databanks? Would you trust an AI doctor? What are the principles of responsible research and innovation?
 
 This document was last updated on `r format(Sys.time(), format="%d %B %Y at %R")`.
 
