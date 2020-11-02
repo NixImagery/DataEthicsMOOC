@@ -18,8 +18,15 @@ description: "Nick's notes."
 favicon: "favicon.ico"
 ---
 # Introduction {-}
+These are my notes from participation in the Edinburgh Data Ethics MOOC, running in November and December 2020. Any errors here are my own responsibility.
 
-### Course overview
+Nick Hood  
+[\@cullaloe](https://twitter.com/cullaloe)
+
+
+This document was last updated on `r format(Sys.time(), format="%d %B %Y at %R")`.
+
+## Course overview
 
 Week 1 Ethics and Law
 : What are ethical values? Can we rely on legal regulation? What are the most pressing issues facing data driven industries?
@@ -36,5 +43,4 @@ Week 4 Money and Markets
 Week 5 Life and Health
 : Should we keep genetic databanks? Would you trust an AI doctor? What are the principles of responsible research and innovation?
 
-This document was last updated on `r format(Sys.time(), format="%d %B %Y at %R")`.
 
