@@ -4,6 +4,7 @@ bookdown::gitbook:
   css: style-.css
   toc_depth: 2
   number_sections: false
+  anchor_sections: no
   split_by: "chapter"
   split_bib: yes
   config:
