@@ -1,7 +1,7 @@
 book_filename: "DataEthicsMOOC"
 language:
   ui:
-    chapter_name: "Week "
+    chapter_name: ""
     appendix_name: "Appendix "
 delete_merged_file: true
 output_dir: "docs"

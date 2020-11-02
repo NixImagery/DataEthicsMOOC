@@ -1,2 +1,2 @@
-# Week 1: Ethics and Law
+# Week 1: Ethics and Law {-}
 

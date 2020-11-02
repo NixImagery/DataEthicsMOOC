@@ -24,7 +24,7 @@ Nick Hood
 
 This document was last updated on `r format(Sys.time(), format="%d %B %Y at %R")`.
 
-## Course overview
+## Course overview {-}
 
 Week 1 Ethics and Law
 : What are ethical values? Can we rely on legal regulation? What are the most pressing issues facing data driven industries?
