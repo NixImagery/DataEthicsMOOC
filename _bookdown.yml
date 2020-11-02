@@ -1,0 +1,15 @@
+book_filename: "DataEthicsMOOC"
+language:
+  ui:
+    chapter_name: "Week "
+    appendix_name: "Appendix "
+delete_merged_file: true
+output_dir: "docs"
+
+rmd_files: [
+  'index.Rmd'
+  ,'content.Rmd'
+  ,'appendix.Rmd'
+  ,'bibliography.Rmd'
+]
+

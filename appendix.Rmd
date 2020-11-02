@@ -1,0 +1,8 @@
+# `r if (knitr::is_latex_output() | knitr::is_html_output(excludes = c("markdown", "epub"))) {"(APPENDIX) "}` Appendices {-} 
+
+```{r appendices, echo=FALSE}
+library(fs)
+vec = dir_ls("Appendices", regexp = "^(.+).md$")
+```
+```{r child = vec}
+```

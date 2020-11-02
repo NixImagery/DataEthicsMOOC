@@ -1,0 +1,13 @@
+```{r content, echo=FALSE}
+library(fs)
+cvec = dir_ls("Content", regexp = "^(.+).md$")
+```
+```{r child = cvec}
+```
+
+```{r tutor, echo=FALSE, eval=params$includedraft}
+library(fs)
+vec = dir_ls("Content-draft", regexp = "^(.+).md$")
+```
+```{r child = if (params$includedraft) vec}
+```
