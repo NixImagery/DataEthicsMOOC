@@ -186,12 +186,12 @@ i {
 
 .book .book-summary ul.summary li a:hover, .book .book-summary ul.summary li.active>a {
   color: #fffff8;  /*#6197D5*/
-  background-color: #008000;
+  background-color: #336699;
 }
 
 /* so that before and after aren't treated the same as the toc, because why would they? */
 .book .book-summary ul.summary li.before a {
-  color: #008000;
+  color: #336699;
   text-decoration: none;
   font-size: 125%;
   font-variant: small-caps;
@@ -203,7 +203,7 @@ i {
 .book .book-summary ul.summary li.before a:hover,
 .book .book-summary ul.summary li.before li.active>a {
   color: #fffff8;  /*#6197D5*/
-  background-color: #008000;
+  background-color: #336699;
   text-decoration: none;
 }
 
@@ -253,7 +253,7 @@ i {
 /* headers */
 
 h1, h2, h3, h4, h5 {
-  color:#008000;
+  color:#336699;
   font-family: 'Roboto Condensed';
 }
 
@@ -373,7 +373,7 @@ img {
 
 /* creative commons, github icons */
 .fab .fa-creative-commons, .fa-creative-commons-sa, .fa-creative-commons-by, .fa-github, .fa-lg {
-  color: #008000;
+  color: #336699;
   background-color: transparent;
 }
 

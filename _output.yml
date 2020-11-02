@@ -14,28 +14,24 @@ bookdown::gitbook:
         <li><a href="./">Data Ethics MOOC</a></li>
       after: |
         <li><a href="https://www.bookdown.org/" target="blank">Published with bookdown</a></li>
-    edit: https://github.com/cullaloe/DataEthicsMOOC/edit/master/%s
+#    edit: https://github.com/cullaloe/DataEthicsMOOC/edit/main/%s
     sharing:
       facebook: yes
-      github: no
       twitter: yes
       linkedin: no
-      weibo: no
-      instapaper: no
-      vk: no
       all: ['facebook', 'twitter', 'linkedin']
-    download:  ["docx", "pdf"] #, "epub", "tex"]
-bookdown::pdf_book:
-  includes:
-    in_header: preamble.tex
-  latex_engine: pdflatex
-  citation_package: default
-  number_sections: true
-  toc_depth: 1
-  keep_tex: no
+#    download:  ["docx", "pdf"] #, "epub", "tex"]
+#bookdown::pdf_book:
+#  includes:
+#    in_header: preamble.tex
+#  latex_engine: pdflatex
+#  citation_package: default
+#  number_sections: true
+#  toc_depth: 1
+#  keep_tex: no
 #bookdown::epub_book:
 #  toc_depth: 2
-bookdown::word_document2:
-    toc: true
-    toc_depth: 2
-    reference_docx: template.docx
+#bookdown::word_document2:
+#    toc: true
+#    toc_depth: 2
+#    reference_docx: template.docx
