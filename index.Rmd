@@ -14,6 +14,8 @@ fig-caption: true
 github-repo: cullaloe/DataEthicsMOOC
 description: "Nick's notes."
 favicon: "favicon.ico"
+#cover-image: /images/Killiekrankie.jpg
+# ![](images/Killiekrankie.jpg)
 ---
 # Introduction {-}
 These are my notes from participation in the Edinburgh Data Ethics MOOC, running in November and December 2020. Any errors here are my own responsibility.
