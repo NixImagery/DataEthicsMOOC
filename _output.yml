@@ -6,7 +6,7 @@ bookdown::gitbook:
   number_sections: false
   anchor_sections: no
   split_by: "section"
-  split_bib: yes
+  split_bib: no
   config:
     fontsettings: no
     toc:
