@@ -1,2 +1,9 @@
 week-1-ethics-and-law
-section-1-ethical-issues
+ethical-issues
+introduction-to-ethics
+data-at-the-heart-of-it
+visibility-of-rationale
+ambient-intelligent-systems
+human-ai-interaction
+utility
+policy-lag

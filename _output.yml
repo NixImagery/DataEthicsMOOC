@@ -5,7 +5,7 @@ bookdown::gitbook:
   toc_depth: 2
   number_sections: false
   anchor_sections: no
-  split_by: "chapter"
+  split_by: "section"
   split_bib: yes
   config:
     fontsettings: no
@@ -36,4 +36,4 @@ bookdown::word_document2:
     toc: true
     toc_depth: 2
     number_sections: false
-#    reference_docx: template.docx
+    reference_docx: template.docx
