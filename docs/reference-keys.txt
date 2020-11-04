@@ -1,9 +1,11 @@
 week-1-ethics-and-law
 ethical-issues
-introduction-to-ethics
+the-challenge-of-data-driven-innovation
 data-at-the-heart-of-it
 visibility-of-rationale
 ambient-intelligent-systems
 human-ai-interaction
 utility
 policy-lag
+values
+case-studies
