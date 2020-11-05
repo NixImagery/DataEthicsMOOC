@@ -9,3 +9,6 @@ utility
 policy-lag
 values
 case-studies
+what-are-ethics
+the-trolley-problem
+making-moral-decisions
