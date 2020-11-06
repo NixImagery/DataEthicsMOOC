@@ -12,7 +12,7 @@ csl: /Users/nickhood/Dropbox/styles/cambridge-journal-of-education.csl
 link-citations: yes
 fig-caption: true
 github-repo: cullaloe/DataEthicsMOOC
-description: "Nick's notes."
+description: "Notes on the late 2020 Data Ethics MOOC."
 favicon: "favicon.ico"
 #cover-image: /images/Killiekrankie.jpg
 # ![](images/Killiekrankie.jpg)
@@ -21,7 +21,7 @@ favicon: "favicon.ico"
 These are my notes from participation in the Edinburgh Data Ethics MOOC, running in November and December 2020. Any errors here are my own responsibility.
 
 Nick Hood  
-[\@cullaloe](https://twitter.com/cullaloe)
+[\@NixImagery](https://twitter.com/NixImagery)
 
 
 This document was last updated on `r format(Sys.time(), format="%d %B %Y at %R")`.

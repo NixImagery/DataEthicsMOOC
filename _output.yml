@@ -6,7 +6,7 @@ bookdown::gitbook:
   number_sections: false
   anchor_sections: no
   split_by: "section"
-  split_bib: no
+  split_bib: yes
   config:
     fontsettings: no
     toc:
@@ -18,8 +18,12 @@ bookdown::gitbook:
 #    edit: https://github.com/cullaloe/DataEthicsMOOC/edit/main/%s
     sharing:
       facebook: yes
+#      github: no
       twitter: yes
       linkedin: no
+#      weibo: no
+#      instapaper: no
+#      vk: no
       all: ['facebook', 'twitter', 'linkedin']
     download:  ["docx", "pdf"] #, "epub", "tex"]
 bookdown::pdf_book:

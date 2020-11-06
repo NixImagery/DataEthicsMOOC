@@ -12,3 +12,6 @@ case-studies
 what-are-ethics
 the-trolley-problem
 making-moral-decisions
+decision-making-in-scottish-teacher-education
+moral-decision-making-applied-to-data-ethics
+a-thought-experiment
