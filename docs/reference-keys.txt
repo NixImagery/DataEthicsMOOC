@@ -15,3 +15,6 @@ making-moral-decisions
 decision-making-in-scottish-teacher-education
 moral-decision-making-applied-to-data-ethics
 a-thought-experiment
+legal-and-ethical-considerations
+legal
+ethical
