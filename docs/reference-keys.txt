@@ -17,4 +17,7 @@ moral-decision-making-applied-to-data-ethics
 a-thought-experiment
 legal-and-ethical-considerations
 legal
-ethical
+ethical-nothing-ethical-going-on-here.
+information-control-and-power
+common-ethical-issues
+consent
