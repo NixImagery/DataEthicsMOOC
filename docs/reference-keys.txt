@@ -21,3 +21,8 @@ ethical-nothing-ethical-going-on-here.
 information-control-and-power
 common-ethical-issues
 consent
+week-2-crime-and-justice
+ambiguous-ethical-issues
+predictive-policing
+algorithms-and-mathematical-models
+automating-poverty-task
