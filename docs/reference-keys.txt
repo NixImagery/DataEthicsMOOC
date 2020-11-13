@@ -26,3 +26,6 @@ ambiguous-ethical-issues
 predictive-policing
 algorithms-and-mathematical-models
 automating-poverty-task
+crime-justice-and-technology
+predictive-mapping
+individual-risk-assessment-programmes
