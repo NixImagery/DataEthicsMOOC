@@ -29,3 +29,10 @@ automating-poverty-task
 crime-justice-and-technology
 predictive-mapping
 individual-risk-assessment-programmes
+sentencing-and-parole
+bias
+algorithmic-bias
+big-data-and-implicit-bias
+de-biasing-algorithms-and-fairness
+data-justice
+week-3-home-and-city

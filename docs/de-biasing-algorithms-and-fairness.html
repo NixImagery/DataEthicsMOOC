@@ -4,11 +4,11 @@
 
   <meta charset="utf-8" />
   <meta http-equiv="X-UA-Compatible" content="IE=edge" />
-  <title>Week 2: Crime and Justice | Data Ethics, AI and Responsible Innovation</title>
+  <title>De-biasing Algorithms and fairness | Data Ethics, AI and Responsible Innovation</title>
   <meta name="description" content="Notes on the late 2020 Data Ethics MOOC." />
   <meta name="generator" content="bookdown 0.21 and GitBook 2.6.7" />
 
-  <meta property="og:title" content="Week 2: Crime and Justice | Data Ethics, AI and Responsible Innovation" />
+  <meta property="og:title" content="De-biasing Algorithms and fairness | Data Ethics, AI and Responsible Innovation" />
   <meta property="og:type" content="book" />
   
   
@@ -16,7 +16,7 @@
   <meta name="github-repo" content="cullaloe/DataEthicsMOOC" />
 
   <meta name="twitter:card" content="summary" />
-  <meta name="twitter:title" content="Week 2: Crime and Justice | Data Ethics, AI and Responsible Innovation" />
+  <meta name="twitter:title" content="De-biasing Algorithms and fairness | Data Ethics, AI and Responsible Innovation" />
   
   <meta name="twitter:description" content="Notes on the late 2020 Data Ethics MOOC." />
   
@@ -31,8 +31,8 @@
   <meta name="apple-mobile-web-app-status-bar-style" content="black" />
   
   <link rel="shortcut icon" href="favicon.ico" type="image/x-icon" />
-<link rel="prev" href="information-control-and-power.html"/>
-<link rel="next" href="ambiguous-ethical-issues.html"/>
+<link rel="prev" href="bias.html"/>
+<link rel="next" href="data-justice.html"/>
 <script src="libs/header-attrs-2.5/header-attrs.js"></script>
 <script src="libs/jquery-2.2.3/jquery.min.js"></script>
 <link href="libs/gitbook-2.6.7/css/style.css" rel="stylesheet" />
@@ -112,24 +112,29 @@
           <div class="page-inner">
 
             <section class="normal" id="section-">
-<div id="week-2-crime-and-justice" class="section level1">
-<h1>Week 2: Crime and Justice</h1>
-<ul>
-<li>Ambiguous Ethical Issues</li>
-<li>Crime, Justice and Technology</li>
-<li>Bias</li>
-<li>De-biasing Algorithms</li>
-<li>Fairness</li>
-<li>Data Justice</li>
-</ul>
+<div id="de-biasing-algorithms-and-fairness" class="section level2">
+<h2>De-biasing Algorithms and fairness</h2>
+<p><em>Fairness-aware machine learning</em> is a term used in an EU report <span class="citation">(Tolan, <a href="#ref-Tolan2018" role="doc-biblioref">2018</a>)</span> that asserts that <em>fairness</em> in this sense depends on the domain in which the model is being made and therefore the fairness constraint applied have to be specific to that domain.</p>
+<p>The group fairness approaches in the EU report apply political or popular biases like:</p>
+<blockquote>
+<p>“the share of defendants classified as high risk should be equal across different protected groups” – <span class="citation">Tolan (<a href="#ref-Tolan2018" role="doc-biblioref">2018</a>)</span>, p8</p>
+</blockquote>
+<p>This is called <em>demographic parity</em> and tries to neutralise an aspect of the source data: suppressing one truth in the name of another, perhaps. In another, <em>calibration</em> is applied such that “the proportion of people re-offending is the same across protected groups” (ibid, p.10), and to achive <em>similar people should be treated similarly</em> is considered a non-trivial task on account of deciding on what data is required to identify how similar two people are.</p>
+<p>“Fairness through unawareness” is one method described by which algorithms might be made to mitigate bias: this seems to take us full circle back to where the problem began, in which the use of historical data is used to train the model from the prior behaviours which themselves have included hidden biases.</p>
+</div>
+<h3>References</h3>
+<div id="refs" class="references">
+<div id="ref-Tolan2018">
+<p>Tolan, S. (2018). <em>JRC Digital Economy Working Paper 2018-10 Fair and Unbiased Algorithmic Decision Making : Current State and Future Challenges</em>. <em>December</em>.</p>
+</div>
 </div>
             </section>
 
           </div>
         </div>
       </div>
-<a href="information-control-and-power.html" class="navigation navigation-prev " aria-label="Previous page"><i class="fa fa-angle-left"></i></a>
-<a href="ambiguous-ethical-issues.html" class="navigation navigation-next " aria-label="Next page"><i class="fa fa-angle-right"></i></a>
+<a href="bias.html" class="navigation navigation-prev " aria-label="Previous page"><i class="fa fa-angle-left"></i></a>
+<a href="data-justice.html" class="navigation navigation-next " aria-label="Next page"><i class="fa fa-angle-right"></i></a>
     </div>
   </div>
 <script src="libs/gitbook-2.6.7/js/app.min.js"></script>

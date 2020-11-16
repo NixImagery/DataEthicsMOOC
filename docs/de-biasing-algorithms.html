@@ -4,11 +4,11 @@
 
   <meta charset="utf-8" />
   <meta http-equiv="X-UA-Compatible" content="IE=edge" />
-  <title>Week 2: Crime and Justice | Data Ethics, AI and Responsible Innovation</title>
+  <title>De-biasing Algorithms | Data Ethics, AI and Responsible Innovation</title>
   <meta name="description" content="Notes on the late 2020 Data Ethics MOOC." />
   <meta name="generator" content="bookdown 0.21 and GitBook 2.6.7" />
 
-  <meta property="og:title" content="Week 2: Crime and Justice | Data Ethics, AI and Responsible Innovation" />
+  <meta property="og:title" content="De-biasing Algorithms | Data Ethics, AI and Responsible Innovation" />
   <meta property="og:type" content="book" />
   
   
@@ -16,7 +16,7 @@
   <meta name="github-repo" content="cullaloe/DataEthicsMOOC" />
 
   <meta name="twitter:card" content="summary" />
-  <meta name="twitter:title" content="Week 2: Crime and Justice | Data Ethics, AI and Responsible Innovation" />
+  <meta name="twitter:title" content="De-biasing Algorithms | Data Ethics, AI and Responsible Innovation" />
   
   <meta name="twitter:description" content="Notes on the late 2020 Data Ethics MOOC." />
   
@@ -31,8 +31,8 @@
   <meta name="apple-mobile-web-app-status-bar-style" content="black" />
   
   <link rel="shortcut icon" href="favicon.ico" type="image/x-icon" />
-<link rel="prev" href="information-control-and-power.html"/>
-<link rel="next" href="ambiguous-ethical-issues.html"/>
+<link rel="prev" href="bias.html"/>
+<link rel="next" href="references.html"/>
 <script src="libs/header-attrs-2.5/header-attrs.js"></script>
 <script src="libs/jquery-2.2.3/jquery.min.js"></script>
 <link href="libs/gitbook-2.6.7/css/style.css" rel="stylesheet" />
@@ -87,10 +87,8 @@
 <li class="chapter" data-level="" data-path="ambiguous-ethical-issues.html"><a href="ambiguous-ethical-issues.html"><i class="fa fa-check"></i>Ambiguous Ethical Issues</a></li>
 <li class="chapter" data-level="" data-path="crime-justice-and-technology.html"><a href="crime-justice-and-technology.html"><i class="fa fa-check"></i>Crime, Justice and Technology</a></li>
 <li class="chapter" data-level="" data-path="bias.html"><a href="bias.html"><i class="fa fa-check"></i>Bias</a></li>
-<li class="chapter" data-level="" data-path="de-biasing-algorithms-and-fairness.html"><a href="de-biasing-algorithms-and-fairness.html"><i class="fa fa-check"></i>De-biasing Algorithms and fairness</a></li>
-<li class="chapter" data-level="" data-path="data-justice.html"><a href="data-justice.html"><i class="fa fa-check"></i>Data Justice</a></li>
+<li class="chapter" data-level="" data-path="de-biasing-algorithms.html"><a href="de-biasing-algorithms.html"><i class="fa fa-check"></i>De-biasing Algorithms</a></li>
 </ul></li>
-<li class="chapter" data-level="" data-path="week-3-home-and-city.html"><a href="week-3-home-and-city.html"><i class="fa fa-check"></i>Week 3: Home and City</a></li>
 <li class="chapter" data-level="" data-path="references.html"><a href="references.html"><i class="fa fa-check"></i>References</a></li>
 <li class="divider"></li>
 <li><a href="https://www.bookdown.org/" target="blank">Published with bookdown</a></li>
@@ -112,24 +110,30 @@
           <div class="page-inner">
 
             <section class="normal" id="section-">
-<div id="week-2-crime-and-justice" class="section level1">
-<h1>Week 2: Crime and Justice</h1>
-<ul>
-<li>Ambiguous Ethical Issues</li>
-<li>Crime, Justice and Technology</li>
-<li>Bias</li>
-<li>De-biasing Algorithms</li>
-<li>Fairness</li>
-<li>Data Justice</li>
-</ul>
+<div id="de-biasing-algorithms" class="section level2">
+<h2>De-biasing Algorithms</h2>
+<p><em>Fairness-aware machine learning</em> is a term used in an EU report <span class="citation">(Tolan, <a href="#ref-Tolan2018" role="doc-biblioref">2018</a>)</span> that asserts that <em>fairness</em> in this sense depends on the domain in which the model is being made and therefore the fairness constraint applied have to be specific to that domain.</p>
+<p>The group fairness approaches in the EU report apply political or popular biases like:</p>
+<blockquote>
+<p>“the share of defendants classified as high risk should be equal across different protected groups” – <span class="citation">Tolan (<a href="#ref-Tolan2018" role="doc-biblioref">2018</a>)</span>, p8</p>
+</blockquote>
+<p>This is called <em>demographic parity</em> and tries to neutralise an aspect of the source data: suppressing one truth in the name of another, perhaps. In another, <em>calibration</em> is applied such that “the proportion of people re-offending is the same across protected groups” (ibid, p.10), and to achive <em>similar people should be treated similarly</em> is considered a non-trivial task on account of deciding on what data is required to identify how similar two people are.</p>
+
+</div>
+<!-- </div> -->
+<h3>References</h3>
+<div id="refs" class="references">
+<div id="ref-Tolan2018">
+<p>Tolan, S. (2018). <em>JRC Digital Economy Working Paper 2018-10 Fair and Unbiased Algorithmic Decision Making : Current State and Future Challenges</em>. <em>December</em>.</p>
+</div>
 </div>
             </section>
 
           </div>
         </div>
       </div>
-<a href="information-control-and-power.html" class="navigation navigation-prev " aria-label="Previous page"><i class="fa fa-angle-left"></i></a>
-<a href="ambiguous-ethical-issues.html" class="navigation navigation-next " aria-label="Next page"><i class="fa fa-angle-right"></i></a>
+<a href="bias.html" class="navigation navigation-prev " aria-label="Previous page"><i class="fa fa-angle-left"></i></a>
+<a href="references.html" class="navigation navigation-next " aria-label="Next page"><i class="fa fa-angle-right"></i></a>
     </div>
   </div>
 <script src="libs/gitbook-2.6.7/js/app.min.js"></script>
