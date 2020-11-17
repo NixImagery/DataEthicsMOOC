@@ -24,7 +24,7 @@ consent
 week-2-crime-and-justice
 ambiguous-ethical-issues
 predictive-policing
-algorithms-and-mathematical-models
+china-scs
 automating-poverty-task
 crime-justice-and-technology
 predictive-mapping
@@ -36,3 +36,5 @@ big-data-and-implicit-bias
 de-biasing-algorithms-and-fairness
 data-justice
 week-3-home-and-city
+the-iot
+activity-what-do-you-think-are-the-biggest-concerns-raised-by-the-internet-of-things
