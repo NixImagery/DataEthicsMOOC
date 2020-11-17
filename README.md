@@ -1,6 +1,6 @@
 # DataEthicsMOOC
 
-This repository contains my notes from participation in the Edinburgh Data Ethics MOOC, running in November and December 2020. The notes are published as a [github website](//culaloe.com/DataEthicsMOOC) using Bookdown.
+This repository contains my notes from participation in the Edinburgh Data Ethics MOOC, running in November and December 2020. The notes are published as a [github website](//cullaloe.com/DataEthicsMOOC) using Bookdown.
 
 **Nick Hood** CPhys CSci MInstP MRAeS LRPS  
 *Senior Teaching Fellow Secondary Education (Physics)*
