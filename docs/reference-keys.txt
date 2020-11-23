@@ -38,3 +38,6 @@ data-justice
 week-3-home-and-city
 the-iot
 activity-what-do-you-think-are-the-biggest-concerns-raised-by-the-internet-of-things
+hammer-chewers
+so-what-is-it
+the-smart-home
