@@ -1,0 +1,66 @@
+---
+title: "Data Ethics, AI and Responsible Innovation"
+author: "Nick Hood"
+date: >
+  `r format(Sys.Date(), format="%d %B %Y")`
+site: bookdown::bookdown_site
+output: bookdown::gitbook
+documentclass: book
+bibliography: /Users/nickhood/Dropbox/Bibliographies/NixBibs.bib
+biblio-style: apalike
+csl: /Users/nickhood/Dropbox/styles/cambridge-journal-of-education.csl
+link-citations: yes
+fig-caption: true
+github-repo: cullaloe/DataEthicsMOOC
+description: "Notes on the late 2020 Data Ethics MOOC."
+favicon: "favicon.ico"
+#cover-image: /images/Killiekrankie.jpg
+# ![](images/Killiekrankie.jpg)
+---
+# Introduction {-}
+These are my notes from participation in the Edinburgh Data Ethics MOOC, running in November and December 2020. Any errors here are my own responsibility.
+
+Nick Hood  
+[\@NixImagery](https://twitter.com/NixImagery)
+
+
+This document was last updated on `r format(Sys.time(), format="%d %B %Y at %R")`.
+
+## Course overview {-}
+
+Week 1 Ethics and Law
+: What are ethical values? Can we rely on legal regulation? What are the most pressing issues facing data driven industries?
+
+Week 2 Crime and Justice
+: Should we use predictive policing and sentencing algorithms? How can biases sneak into such algorithms? How can we remove them?
+
+Week 3 Home and City
+: What are the promises of smart homes and cities? How can they impact our privacy and freedom? How can we design them to protect those values?
+
+Week 4 Money and Markets
+: Can future tech lead to a world without money? Can algorithms help us fairly distribute resources? How could we design a fair AI?
+
+Week 5 Life and Health
+: Should we keep genetic databanks? Would you trust an AI doctor? What are the principles of responsible research and innovation?
+
+
+
+<!--chapter:end:index.Rmd-->
+
+```{r content, echo=FALSE}
+library(fs)
+cvec = dir_ls("Content", regexp = "^(.+).md$")
+```
+```{r child = cvec}
+```
+
+
+<!--chapter:end:content.Rmd-->
+
+# References {-}
+
+<div id="refs"></div>
+
+
+<!--chapter:end:bibliography.Rmd-->
+

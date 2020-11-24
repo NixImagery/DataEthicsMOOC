@@ -1,0 +1,49 @@
+\contentsline {chapter}{Introduction}{5}{chapter*.2}
+\contentsline {section}{Course overview}{5}{section*.3}
+\contentsline {chapter}{Week 1: Ethics and Law}{7}{chapter*.4}
+\contentsline {subsection}{Ethical `Issues'}{7}{section*.5}
+\contentsline {section}{The challenge of data-driven innovation}{8}{section*.6}
+\contentsline {subsection}{Data at the heart of it}{8}{section*.7}
+\contentsline {subsection}{Visibility of rationale}{9}{section*.8}
+\contentsline {subsection}{Ambient intelligent systems}{9}{section*.9}
+\contentsline {subsection}{Human --\textgreater {} AI interaction}{9}{section*.10}
+\contentsline {subsection}{Utility}{9}{section*.11}
+\contentsline {subsection}{Policy lag}{10}{section*.12}
+\contentsline {subsection}{Values}{10}{section*.13}
+\contentsline {subsection}{Case studies}{10}{section*.14}
+\contentsline {section}{What are ethics?}{11}{section*.15}
+\contentsline {subsection}{The trolley problem}{11}{section*.16}
+\contentsline {subsection}{Making moral decisions}{12}{section*.17}
+\contentsline {subsubsection}{Decision-making in Scottish Teacher Education}{12}{section*.18}
+\contentsline {subsubsection}{Moral decision-making applied to data ethics}{13}{section*.19}
+\contentsline {subsection}{A thought experiment}{13}{section*.20}
+\contentsline {section}{Legal and ethical considerations}{14}{section*.21}
+\contentsline {subsection}{Legal}{14}{section*.22}
+\contentsline {subsection}{Ethical? Nothing ethical going on here.}{15}{section*.23}
+\contentsline {section}{Information, control and power}{15}{section*.24}
+\contentsline {subsection}{Common ethical issues}{16}{section*.25}
+\contentsline {subsection}{Consent}{16}{section*.26}
+\contentsline {chapter}{Week 2: Crime and Justice}{19}{chapter*.27}
+\contentsline {section}{Ambiguous Ethical Issues}{19}{section*.28}
+\contentsline {subsection}{Predictive policing}{19}{section*.29}
+\contentsline {subsection}{Algorithms and mathematical models}{20}{section*.30}
+\contentsline {subsubsection}{Automating poverty task}{20}{section*.31}
+\contentsline {section}{Crime, Justice and Technology}{20}{section*.32}
+\contentsline {subsection}{Predictive mapping}{21}{section*.33}
+\contentsline {subsection}{Individual risk assessment programmes}{21}{section*.34}
+\contentsline {subsection}{Sentencing and parole}{22}{section*.35}
+\contentsline {section}{Bias}{22}{section*.36}
+\contentsline {subsection}{Algorithmic bias}{22}{section*.37}
+\contentsline {subsection}{Big Data and implicit bias}{23}{section*.38}
+\contentsline {section}{De-biasing Algorithms and fairness}{23}{section*.39}
+\contentsline {section}{Data Justice}{24}{section*.40}
+\contentsline {chapter}{Week 3: Home and City}{25}{chapter*.41}
+\contentsline {section}{The IoT}{25}{section*.42}
+\contentsline {subsection}{Activity: what do you think are the biggest concerns raised by the Internet of Things?}{26}{section*.43}
+\contentsline {subsection}{Hammer Chewers}{26}{section*.44}
+\contentsline {subsection}{So, what is it?}{26}{section*.45}
+\contentsline {section}{The Smart Home}{27}{section*.46}
+\contentsline {subsection}{Audit and share}{28}{section*.47}
+\contentsline {subsection}{Governance}{28}{section*.48}
+\contentsline {subsection}{Examples activity}{28}{section*.49}
+\contentsline {chapter}{References}{31}{chapter*.50}
