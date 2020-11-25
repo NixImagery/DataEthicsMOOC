@@ -46,4 +46,7 @@
 \contentsline {subsection}{Audit and share}{28}{section*.47}
 \contentsline {subsection}{Governance}{28}{section*.48}
 \contentsline {subsection}{Examples activity}{28}{section*.49}
-\contentsline {chapter}{References}{31}{chapter*.50}
+\contentsline {section}{The Smart City}{29}{section*.50}
+\contentsline {subsection}{Facial recognition}{30}{section*.51}
+\contentsline {section}{Design Solutions}{30}{section*.52}
+\contentsline {chapter}{References}{31}{chapter*.53}

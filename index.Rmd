@@ -14,13 +14,14 @@ fig-caption: true
 github-repo: cullaloe/DataEthicsMOOC
 description: "Notes on the late 2020 Data Ethics MOOC."
 favicon: "favicon.ico"
-#cover-image: /images/Killiekrankie.jpg
-# ![](images/Killiekrankie.jpg)
 ---
 # Introduction {-}
+
+![](images/47090179264_be31ecde40_c.jpg)
+
 These are my notes from participation in the Edinburgh Data Ethics MOOC, running in November and December 2020. Any errors here are my own responsibility.
 
-Nick Hood  
+&copy; 2020 Nick Hood  
 [\@NixImagery](https://twitter.com/NixImagery)
 
 

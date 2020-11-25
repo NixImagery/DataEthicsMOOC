@@ -4,11 +4,11 @@
 
   <meta charset="utf-8" />
   <meta http-equiv="X-UA-Compatible" content="IE=edge" />
-  <title>De-biasing Algorithms | Data Ethics, AI and Responsible Innovation</title>
+  <title>Design Solutions | Data Ethics, AI and Responsible Innovation</title>
   <meta name="description" content="Notes on the late 2020 Data Ethics MOOC." />
   <meta name="generator" content="bookdown 0.21 and GitBook 2.6.7" />
 
-  <meta property="og:title" content="De-biasing Algorithms | Data Ethics, AI and Responsible Innovation" />
+  <meta property="og:title" content="Design Solutions | Data Ethics, AI and Responsible Innovation" />
   <meta property="og:type" content="book" />
   
   
@@ -16,7 +16,7 @@
   <meta name="github-repo" content="cullaloe/DataEthicsMOOC" />
 
   <meta name="twitter:card" content="summary" />
-  <meta name="twitter:title" content="De-biasing Algorithms | Data Ethics, AI and Responsible Innovation" />
+  <meta name="twitter:title" content="Design Solutions | Data Ethics, AI and Responsible Innovation" />
   
   <meta name="twitter:description" content="Notes on the late 2020 Data Ethics MOOC." />
   
@@ -24,14 +24,14 @@
 <meta name="author" content="Nick Hood" />
 
 
-<meta name="date" content="2020-11-16" />
+<meta name="date" content="2020-11-25" />
 
   <meta name="viewport" content="width=device-width, initial-scale=1" />
   <meta name="apple-mobile-web-app-capable" content="yes" />
   <meta name="apple-mobile-web-app-status-bar-style" content="black" />
   
   <link rel="shortcut icon" href="favicon.ico" type="image/x-icon" />
-<link rel="prev" href="bias.html"/>
+<link rel="prev" href="the-smart-city.html"/>
 <link rel="next" href="references.html"/>
 <script src="libs/header-attrs-2.5/header-attrs.js"></script>
 <script src="libs/jquery-2.2.3/jquery.min.js"></script>
@@ -87,7 +87,15 @@
 <li class="chapter" data-level="" data-path="ambiguous-ethical-issues.html"><a href="ambiguous-ethical-issues.html"><i class="fa fa-check"></i>Ambiguous Ethical Issues</a></li>
 <li class="chapter" data-level="" data-path="crime-justice-and-technology.html"><a href="crime-justice-and-technology.html"><i class="fa fa-check"></i>Crime, Justice and Technology</a></li>
 <li class="chapter" data-level="" data-path="bias.html"><a href="bias.html"><i class="fa fa-check"></i>Bias</a></li>
-<li class="chapter" data-level="" data-path="de-biasing-algorithms.html"><a href="de-biasing-algorithms.html"><i class="fa fa-check"></i>De-biasing Algorithms</a></li>
+<li class="chapter" data-level="" data-path="de-biasing-algorithms-and-fairness.html"><a href="de-biasing-algorithms-and-fairness.html"><i class="fa fa-check"></i>De-biasing Algorithms and fairness</a></li>
+<li class="chapter" data-level="" data-path="data-justice.html"><a href="data-justice.html"><i class="fa fa-check"></i>Data Justice</a></li>
+</ul></li>
+<li class="chapter" data-level="" data-path="week-3-home-and-city.html"><a href="week-3-home-and-city.html"><i class="fa fa-check"></i>Week 3: Home and City</a>
+<ul>
+<li class="chapter" data-level="" data-path="the-iot.html"><a href="the-iot.html"><i class="fa fa-check"></i>The IoT</a></li>
+<li class="chapter" data-level="" data-path="the-smart-home.html"><a href="the-smart-home.html"><i class="fa fa-check"></i>The Smart Home</a></li>
+<li class="chapter" data-level="" data-path="the-smart-city.html"><a href="the-smart-city.html"><i class="fa fa-check"></i>The Smart City</a></li>
+<li class="chapter" data-level="" data-path="design-solutions.html"><a href="design-solutions.html"><i class="fa fa-check"></i>Design Solutions</a></li>
 </ul></li>
 <li class="chapter" data-level="" data-path="references.html"><a href="references.html"><i class="fa fa-check"></i>References</a></li>
 <li class="divider"></li>
@@ -110,29 +118,27 @@
           <div class="page-inner">
 
             <section class="normal" id="section-">
-<div id="de-biasing-algorithms" class="section level2">
-<h2>De-biasing Algorithms</h2>
-<p><em>Fairness-aware machine learning</em> is a term used in an EU report <span class="citation">(Tolan, <a href="#ref-Tolan2018" role="doc-biblioref">2018</a>)</span> that asserts that <em>fairness</em> in this sense depends on the domain in which the model is being made and therefore the fairness constraint applied have to be specific to that domain.</p>
-<p>The group fairness approaches in the EU report apply political or popular biases like:</p>
+<div id="design-solutions" class="section level2">
+<h2>Design Solutions</h2>
 <blockquote>
-<p>“the share of defendants classified as high risk should be equal across different protected groups” – <span class="citation">Tolan (<a href="#ref-Tolan2018" role="doc-biblioref">2018</a>)</span>, p8</p>
+<p><em>This is what this course aims to do: encourage you to reflect how your design choices can shape your users and society.</em></p>
 </blockquote>
-<p>This is called <em>demographic parity</em> and tries to neutralise an aspect of the source data: suppressing one truth in the name of another, perhaps. In another, <em>calibration</em> is applied such that “the proportion of people re-offending is the same across protected groups” (ibid, p.10), and to achive <em>similar people should be treated similarly</em> is considered a non-trivial task on account of deciding on what data is required to identify how similar two people are.</p>
+<p>I think I am beginning to see the aims and purposes of this course more clearly: to help us see what is in plain sight and already in our experience, although forgotten. Systems are powerful in that they influence behaviour of those who interact with them. Culture is a system in this regard, therefore. Societal norms have aye been manipulated by those who seek power: the information media have been crucial in adjusting those norms. Today’s situation is no different: truth is hidden to enhance the message, whether for marketing or political ends. The defence is simple enough: to be informed, and to be educated<a href="#fn17" class="footnote-ref" id="fnref17"><sup>17</sup></a>.</p>
 
 </div>
 <!-- </div> -->
-<h3>References</h3>
-<div id="refs" class="references">
-<div id="ref-Tolan2018">
-<p>Tolan, S. (2018). <em>JRC Digital Economy Working Paper 2018-10 Fair and Unbiased Algorithmic Decision Making : Current State and Future Challenges</em>. <em>December</em>.</p>
-</div>
+<div class="footnotes">
+<hr />
+<ol start="17">
+<li id="fn17"><p>I’m not talking about education in the school or systemic sense here. I mean that to be educated is to know much, to have read much, travelled much and thought much about events, most particularly those of recent history. Sound technical knowledge is included in that definition too.<a href="design-solutions.html#fnref17" class="footnote-back">↩︎</a></p></li>
+</ol>
 </div>
             </section>
 
           </div>
         </div>
       </div>
-<a href="bias.html" class="navigation navigation-prev " aria-label="Previous page"><i class="fa fa-angle-left"></i></a>
+<a href="the-smart-city.html" class="navigation navigation-prev " aria-label="Previous page"><i class="fa fa-angle-left"></i></a>
 <a href="references.html" class="navigation navigation-next " aria-label="Next page"><i class="fa fa-angle-right"></i></a>
     </div>
   </div>
