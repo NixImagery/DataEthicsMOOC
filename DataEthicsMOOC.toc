@@ -49,4 +49,6 @@
 \contentsline {section}{The Smart City}{29}{section*.50}
 \contentsline {subsection}{Facial recognition}{30}{section*.51}
 \contentsline {section}{Design Solutions}{30}{section*.52}
-\contentsline {chapter}{References}{31}{chapter*.53}
+\contentsline {subsection}{Designing for values}{31}{section*.53}
+\contentsline {subsubsection}{Making improvements}{31}{section*.54}
+\contentsline {chapter}{References}{33}{chapter*.55}

@@ -47,3 +47,5 @@ examples-activity
 the-smart-city
 facial-recognition
 design-solutions
+designing-for-values
+making-improvements
