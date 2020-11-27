@@ -49,3 +49,4 @@ facial-recognition
 design-solutions
 designing-for-values
 making-improvements
+week-4-money-and-markets

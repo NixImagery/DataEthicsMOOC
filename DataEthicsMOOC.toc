@@ -51,4 +51,5 @@
 \contentsline {section}{Design Solutions}{30}{section*.52}
 \contentsline {subsection}{Designing for values}{31}{section*.53}
 \contentsline {subsubsection}{Making improvements}{31}{section*.54}
-\contentsline {chapter}{References}{33}{chapter*.55}
+\contentsline {chapter}{Week 4: Money and Markets}{33}{chapter*.55}
+\contentsline {chapter}{References}{35}{chapter*.56}
