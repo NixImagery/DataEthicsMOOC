@@ -1,5 +1,5 @@
 \contentsline {chapter}{Introduction}{5}{chapter*.2}
-\contentsline {section}{Course overview}{5}{section*.3}
+\contentsline {section}{Course overview}{6}{section*.3}
 \contentsline {chapter}{Week 1: Ethics and Law}{7}{chapter*.4}
 \contentsline {subsection}{Ethical `Issues'}{7}{section*.5}
 \contentsline {section}{The challenge of data-driven innovation}{8}{section*.6}
@@ -52,4 +52,8 @@
 \contentsline {subsection}{Designing for values}{31}{section*.53}
 \contentsline {subsubsection}{Making improvements}{31}{section*.54}
 \contentsline {chapter}{Week 4: Money and Markets}{33}{chapter*.55}
-\contentsline {chapter}{References}{35}{chapter*.56}
+\contentsline {section}{And so it goes (Vonnegut, \hyperlink {ref-Vonnegut1969}{1969})}{34}{section*.56}
+\contentsline {chapter}{A reflection}{35}{chapter*.57}
+\contentsline {subsection}{Will I be back for another MOOC?}{35}{section*.58}
+\contentsline {subsection}{A wider problem}{35}{section*.59}
+\contentsline {chapter}{References}{37}{chapter*.60}

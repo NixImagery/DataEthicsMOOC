@@ -17,6 +17,8 @@ favicon: "favicon.ico"
 ---
 # Introduction {-}
 
+**TL;DR:** I didn't complete this course because I came upon an impossible obstacle: I lost trust in the course and the presenters in week 4. Skip to the [reflection](#a-reflection).
+
 ![](images/47090179264_be31ecde40_c.jpg)
 
 These are my notes from participation in the Edinburgh Data Ethics MOOC, running in November and December 2020. Any errors here are my own responsibility.
