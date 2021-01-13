@@ -56,4 +56,5 @@
 \contentsline {chapter}{A reflection}{35}{chapter*.57}
 \contentsline {subsection}{Will I be back for another MOOC?}{35}{section*.58}
 \contentsline {subsection}{A wider problem}{35}{section*.59}
-\contentsline {chapter}{References}{37}{chapter*.60}
+\contentsline {subsection}{Not a T-shirt, but\ldots {}}{36}{section*.60}
+\contentsline {chapter}{References}{37}{chapter*.61}

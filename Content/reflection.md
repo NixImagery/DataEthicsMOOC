@@ -10,6 +10,10 @@ Not likely, and certainly not another University of Edinburgh one. If I need pro
 
 I occasionally refer to "the socialist republic of Moray House" when observing the  left-wing stance of colleagues in the part of the University I know best. It seems that such socialist leanings may not be confined to the social sciences, although this course is more social science than it is real science, and therein, maybe, lies the problem. Despite warnings [@Horgan2013], social researchers still wade into deep waters where they are not equipped to go: morality and ethics are possibly the last place they should be allowed to wield their sickles in case they cut themselves.
 
-[^ref-imho]: I even paid the certificate fee, to support open learning, as we all who can afford it, have an ethical duty to do, in my humble opinion. I blustered in rage through the rest of the course, angry at several things. Of course, I didn't make the 4/6 pass mark. I hadn't really studied the week 5 materials.
+### Not a T-shirt, but...
+
+![](images/EdinburghX-DEI01x-Certificate_edX.png)
+
+[^ref-imho]: I even paid the certificate fee, to support open learning, as we all who can afford it, have an ethical duty to do, in my humble opinion. I blustered in rage through the rest of the course, angry at several things. Of course, I didn't make the 4/6 pass mark in the last week but I still got my certificate. I hadn't really studied the week 5 materials.
 
 [^ex-1]: [Here](#predicitve-policing), [here](#automating-poverty-task), [here](#bias), for example.
